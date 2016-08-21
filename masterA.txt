@@ -1,0 +1,1 @@
+Adding text for A file in masterA.txt
