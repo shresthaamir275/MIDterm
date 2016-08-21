@@ -1,2 +1,3 @@
 Adding text for A file in masterA.txt
 Adding some text from feature2 for conflict.
+Adding more lines for testing with feature 2.
