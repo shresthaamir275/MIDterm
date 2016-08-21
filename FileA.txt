@@ -1,3 +1,0 @@
-This if the first line for file A.txt
-
-This is the senond xt
