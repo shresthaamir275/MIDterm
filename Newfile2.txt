@@ -1,0 +1,2 @@
+New file 2
+new line added for file2
